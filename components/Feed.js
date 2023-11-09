@@ -9,7 +9,7 @@ export default function Feed() {
       name: "Steve Rogers",
       username: "Cap",
       userImg:
-        "https://w0.peakpx.com/wallpaper/223/397/HD-wallpaper-captain-america-avengers-endgame-captain-america-marvel-marvel-comics-marvel-superheroes-superheroes.jpg",
+        "https://m.media-amazon.com/images/I/71vntClRfjL.jpg",
       img: "https://cdn.vox-cdn.com/thumbor/nNU6oP549KYvbc5Vk-M-zaLHFog=/0x0:1920x1080/1200x800/filters:focal(887x293:1193x599)/cdn.vox-cdn.com/uploads/chorus_image/image/64224190/surprise_marvel_releases_a_new_full_trailer_and_poster_for_avengers_endgame_social.0.jpg",
       text: "Get Ready Avengers .... ",
       timestamp: "4 hours ago",
@@ -59,8 +59,8 @@ export default function Feed() {
       name: "Wanda Maximoff",
       username: "Scarlet Witch",
       userImg:
-        "https://upload.wikimedia.org/wikipedia/en/d/d9/Elizabeth_Olsen_as_Wanda_Maximoff.jpg",
-      img: "https://staticg.sportskeeda.com/editor/2023/06/8d124-16863912009071-1920.jpg?w=840",
+        "https://qph.cf2.quoracdn.net/main-qimg-6c8f5891d2b629f1d0acad9ae88e6692-lq",
+      img: "https://movieplayer.net-cdn.it/t/images/2023/05/17/scarlet-witch-tornera-davvero-marvel-cinematic-universe_jpg_1600x900_crop_q85.jpg",
       text: "Greetings All .... ",
       timestamp: "1 hours ago",
     },

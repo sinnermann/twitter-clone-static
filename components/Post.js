@@ -1,7 +1,6 @@
 import {
   ChartBarIcon,
   ChatIcon,
-  DotHorizontalIcon,
   HeartIcon,
   ShareIcon,
   TrashIcon,

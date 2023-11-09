@@ -4,7 +4,7 @@ export default function Input() {
   return (
     <div className="flex border-b border-gray-200 space-x-3">
       <img
-        src="https://avatars.githubusercontent.com/u/117041814?=4"
+        src="https://www.muraldecal.com/en/img/asaj122-png/folder/products-detalle-png/wall-stickers-captain-america-in-action.png"
         alt="user-img"
         className="h-11 w-11 rounded-full cursor-pointer hover:brightness-95"
       />
@@ -13,7 +13,7 @@ export default function Input() {
           <textarea
             className="w-full border-none focus:ring-0 text-lg placeholder-gray-700 tracking-wide min-h-[50px] text-gray-700"
             rows="2"
-            placeholder="What's happening?"
+            placeholder="What's happening for the moment?"
           ></textarea>
         </div>
         <div className="flex items-center justify-between pt-2.5">
